@@ -1,13 +1,5 @@
-.panel-collapsible {
-	margin-top: 15px;
-}
-
 .search-input {
-	margin-top: 10px;
-}
-
-.page-app-list {
-	margin-top: -10px;
+	margin-bottom: -3px;
 }
 
 .filter-list-rich-types-media {
@@ -16,4 +8,12 @@
 
 .badge {
 	margin-right: 15px;
+}
+
+.title {
+	margin-top: 2px;
+}
+
+.list-group-with-indicators {
+	margin-bottom: 15px !important; 
 }
